@@ -37,6 +37,7 @@ public class NBody {
 		
 		create_animation(T, dt, radius, planets);
 		print_universe(planets, radius);
+		
 	}
 
 	/** create the animation of the plot, it is really amazing.*/
