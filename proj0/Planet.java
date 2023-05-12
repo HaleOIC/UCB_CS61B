@@ -13,7 +13,7 @@ public class Planet {
 	public String imgFileName;
 
 	/**the constant variable for calculate */
-	static final double G = 6.67 * 1e-11;
+	private static final double G = 6.67 * 1e-11;
 
 	/** the constructor for the class planet */
 	public Planet(double xP, double yP, double xV,
