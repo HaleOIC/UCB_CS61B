@@ -1,4 +1,4 @@
-#CS61B
+# CS61B
 
 this is the folder for the famous courses UCB CS61B which has three important parts during the course:
 
