@@ -1,3 +1,4 @@
+/** there is no main function in the class */
 public class Planet {
 	/**
 	 * 	@double xxPos: Its current x position
