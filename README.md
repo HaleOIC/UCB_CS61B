@@ -6,4 +6,4 @@ this is the folder for the famous courses UCB CS61B which has three important pa
 - advanced programming
 - data structure
 
-For this repository, I have learned the courses are summer 2018
+For this repository, the courses I have learned is summer 2018
