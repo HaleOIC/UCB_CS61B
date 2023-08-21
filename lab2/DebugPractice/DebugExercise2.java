@@ -1,6 +1,7 @@
 /**
  * Exercise to showcase the step over button.
- * Code adapted from https://stackoverflow.com/questions/4895173/bitwise-multiply-and-add-in-java and https://stackoverflow.com/questions/1533131/what-useful-bitwise-operator-code-tricks-should-a-developer-know-about
+ * Code adapted from <a href="https://stackoverflow.com/questions/4895173/bitwise-multiply-and-add-in-java">...</a> and
+ * <a href="https://stackoverflow.com/questions/1533131/what-useful-bitwise-operator-code-tricks-should-a-developer-know-about">...</a>
  */
 public class DebugExercise2 {
     /** Returns the max of a and b. Do not step into this function. 
@@ -35,7 +36,7 @@ public class DebugExercise2 {
         return xor;
     }
 
-    /** Returns a new array where entry i is the max of
+    /** Returns a new array where entry I is the max of
      * a[i] and b[i]. For example, if a = {1, -10, 3}
      * and b = {0, 20, 5}, this function will return {1, 20, 5}.
      * */
@@ -68,8 +69,8 @@ public class DebugExercise2 {
      * */
     public static int sumOfElementwiseMaxes(int[] a, int[] b) {
         int[] maxes = arrayMax(a, b);
-        int sumofMaxes = arraySum(maxes);
-        return sumofMaxes;
+        int sumMaxes = arraySum(maxes);
+        return sumMaxes;
     }
 
 
