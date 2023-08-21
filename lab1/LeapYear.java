@@ -1,4 +1,4 @@
-/** Class that determines whether or not a year is a leap year.
+/** Class that determines whether a year is a leap year or not
  *  @author Shine_hale
  */
 public class LeapYear {
